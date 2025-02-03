@@ -7,8 +7,8 @@
 📩 Contáctame: [LinkedIn](www.linkedin.com/in/jean-marco-gutierrez-espejoo) | [Facebook](https://www.facebook.com/marco.gutierrezespejo/)
 
 🚀 Proyectos destacados:  
-- [Sistema de Reservas de Trenes](https://github.com/tuusuario/proyecto-trenes)  
-- [Sistema de Reservas de Trenes](https://github.com/tuusuario/ReservasVentasTeatro)    
+- [Sistema de Reservas de asientos de Trenes](https://github.com/tuusuario/proyecto-trenes)  
+- [Sistema de Reservas de asientos de Obras de Teatro](https://github.com/tuusuario/ReservasVentasTeatro)    
 ---
 💻 **Tecnologías y Herramientas**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
