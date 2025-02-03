@@ -2,7 +2,7 @@
 ### 🚀 Desarrollador Full-Stack | Apasionado por la IA y el Open Source
 ---
 🌟 **Sobre mí**  
-🛠️ Me especializo en Python y Django. \n
+🛠️ Me especializo en Python y Django.  
 📚 Actualmente aprendiendo sobre Angular y JavaScript.  
 📩 Contáctame: [LinkedIn](www.linkedin.com/in/jean-marco-gutierrez-espejoo) | [Facebook](https://www.facebook.com/marco.gutierrezespejo/)
 
