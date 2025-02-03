@@ -8,7 +8,7 @@
 
 🚀 Proyectos destacados:  
 - [Sistema de Reservas de Trenes](https://github.com/tuusuario/proyecto-trenes)  
-- [Mi Blog Personal](https://github.com/tuusuario/mi-blog)  
+- [Sistema de Reservas de Trenes](https://github.com/tuusuario/ReservasVentasTeatro)    
 ---
 💻 **Tecnologías y Herramientas**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
