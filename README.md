@@ -4,7 +4,8 @@
 🌟 **Sobre mí**  
 🛠️ Me especializo en Python, Django y React  
 📚 Actualmente aprendiendo sobre DevOps y Seguridad Informática  
-📩 Contáctame: [LinkedIn](www.linkedin.com/in/jean-marco-gutierrez-espejoo) | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/marco.gutierrezespejo/)
+📩 Contáctame: [LinkedIn](www.linkedin.com/in/jean-marco-gutierrez-espejoo) | [Facebook](https://www.facebook.com/marco.gutierrezespejo/)
+
 🚀 Proyectos destacados:  
 - [Sistema de Reservas de Trenes](https://github.com/tuusuario/proyecto-trenes)  
 - [Mi Blog Personal](https://github.com/tuusuario/mi-blog)  
