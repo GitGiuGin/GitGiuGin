@@ -10,7 +10,7 @@
 🧠 Interesado en **IA, automatización y análisis de datos**  
 📍 La Paz, Bolivia  
 
-📩 Contáctame:  
+## 📩 Contáctame:  
 🔗 [LinkedIn](https://www.linkedin.com/in/jean-marco-gutierrez-espejoo)  
 📘 [Facebook](https://www.facebook.com/marco.gutierrezespejo/)  
 💬 [WhatsApp](https://wa.me/59176206161)
