@@ -8,11 +8,22 @@
 🛠️ Me especializo en desarrollo con **Python y Django**  
 🌐 Actualmente aprendiendo **Angular y JavaScript moderno**  
 🧠 Interesado en **IA, automatización y análisis de datos**  
-📍 Bolivia  
+📍 La Paz, Bolivia  
 
 📩 Contáctame:  
-- [LinkedIn](https://www.linkedin.com/in/jean-marco-gutierrez-espejoo)  
-- [Facebook](https://www.facebook.com/marco.gutierrezespejo/)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/jean-marco-gutierrez-espejoo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/marco.gutierrezespejo/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/59176206161" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
